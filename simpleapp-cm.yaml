@@ -3,4 +3,5 @@ kind: ConfigMap
 metadata:
   name: myapp
 data:
-  key: Code:1337
+  name: Code
+  key: MTMzNw==
